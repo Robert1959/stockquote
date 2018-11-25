@@ -1,0 +1,10 @@
+.colum {
+    float: right;
+    width: 33%;
+}
+button {
+    margin: 5px;
+    color: #333;
+    border-radius: 3px;
+    cursor: pointer;
+  }
